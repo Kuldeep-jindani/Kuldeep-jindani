@@ -33,6 +33,6 @@ Connect with me:
 jindanikuldeep@gmail.com | https://www.linkedin.com/in/kuldeep-jindani-024439a2/ (Linkedin) | +919624512062 (Whatsapp) | https://www.instagram.com/entwicklercorp/
 
 Languages and Tools:
-![java](https://github.com/Kuldeep-jindani/Kuldeep-jindani/assets/26920131/54232a23-523d-448b-ae64-26e08d4043c1)
+- ![java](https://github.com/Kuldeep-jindani/Kuldeep-jindani/assets/26920131/54232a23-523d-448b-ae64-26e08d4043c1)
 
 
